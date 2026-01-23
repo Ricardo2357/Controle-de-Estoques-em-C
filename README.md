@@ -2,7 +2,7 @@
 Este projeto consiste em um controle de estoques desenvolvido em C, projetado para oferecer controle de mercadorias via terminal. O sistema utiliza uma interface de menu, permitindo que o usuário controle a movimentação de itens e monitore o armazenamento de forma rápida e direta pelo terminal.
 
 <p align = "left">
-<img src = "https://blog.jetbov.com.br/wp-content/uploads/2020/01/estoque-2.png" alt = "Banner do Controle de Estoques" width = "375" height = "325">
+<img src = "https://blog.jetbov.com.br/wp-content/uploads/2020/01/estoque-2.png" alt = "Banner do Controle de Estoques" width = "400" height = "375">
 </p>
 
 ## Demonstração
