@@ -42,7 +42,7 @@ No Linux/macOS:
 gcc main.c -o ControleEstoque
 ```
 
-### Executando o Jogo:
+### Executando o Controle de Estoques:
 
 No Windows:
 
