@@ -7,7 +7,7 @@ Este projeto consiste em um controle de estoques desenvolvido em C, projetado pa
 
 ## Demonstração
 
-![Imagem do Terminal](assets/Controle-de-Estoques-Terminal.png)
+![Imagem do Terminal](images/terminal-controle-de-estoques.png)
 
 Interface do Controle de Estoques em execução no terminal.
 
@@ -33,13 +33,13 @@ Após baixar ou clonar o projeto, siga os passos abaixo para compilar e executar
 No Windows, abra o terminal e digite:
 
 ```
-gcc main.c -o ControleEstoque.exe
+gcc main.c -o controledeestoques.exe
 ```
 
 No Linux/macOS:
 
 ```
-gcc main.c -o ControleEstoque
+gcc main.c -o controledeestoques
 ```
 
 ### Executando o Controle de Estoques:
@@ -47,13 +47,13 @@ gcc main.c -o ControleEstoque
 No Windows:
 
 ```
-ControleEstoque.exe
+controledeestoques.exe
 ```
 
 No Linux/macOS:
 
 ```
-./ControleEstoque
+./controledeestoques
 ```
 
 ## Como Utilizar
@@ -69,8 +69,8 @@ No Linux/macOS:
 
 ```
 Calculadora-Baseada-em-Texto-C/
-├── assets/
-│   └── Controle-de-Estoques-Terminal.png
+├── images/
+│   └── terminal-controle-de-estoques.png
 ├── main.c
 ├── LICENSE
 └── README.md
