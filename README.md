@@ -68,7 +68,7 @@ No Linux/macOS:
 ## Estrutura do Projeto
 
 ```
-Calculadora-Baseada-em-Texto-C/
+Controle-de-Estoques-C/
 ├── images/
 │   └── terminal-controle-de-estoques.png
 ├── main.c
